@@ -1,8 +1,9 @@
-public class ej1 {
+public class feature {
     public static void main(String[] args) {
         System.out.println("Share on GitHub");
         System.out.println("ej1");
         System.out.println("readme");
-        //commit 2c
+        //feature
+
     }
 }
